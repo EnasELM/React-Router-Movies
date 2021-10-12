@@ -25,3 +25,6 @@ function MovieDetails(props) {
     </div>
   );
 }
+
+//* [ ] When a user clicks on the movie card inside `MovieList` they should be taken to `/movies/
+//id of clicked movie here}` to see the details of the selected movie.
